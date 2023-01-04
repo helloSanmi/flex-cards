@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "url": "/",
+    "title": "Learning React? Start Small.",
+    "text": "Can't pry yourself away from the tutorials? The cure is to make tiny little experimental apps.",
+    "linkTitle": "dev.to",
+    "linkSrc": "/"
+  },
+  {
+    "id": "2",
+    "url": "/",
+    "title": "Learning NextJs? Start Small.",
+    "text": "Can't pry yourself away from the tutorials? The cure is to make tiny little experimental apps.",
+    "linkTitle": "dev.to",
+    "linkSrc": "/"
+  },
+  {
+    "id": "3",
+    "url": "/",
+    "title": "Learning Python? Start Small.",
+    "text": "Can't pry yourself away from the tutorials? The cure is to make tiny little experimental apps.",
+    "linkTitle": "dev.to",
+    "linkSrc": "/"
+  },
+  {
+    "id": "4",
+    "url": "/",
+    "title": "Learning React? Start Small.",
+    "text": "Can't pry yourself away from the tutorials? The cure is to make tiny little experimental apps.",
+    "linkTitle": "dev.to",
+    "linkSrc": "/"
+  },
+  {
+    "id": "5",
+    "url": "/",
+    "title": "Learning TypeScript? Start Small.",
+    "text": "Can't pry yourself away from the tutorials? The cure is to make tiny little experimental apps.",
+    "linkTitle": "dev.to",
+    "linkSrc": "/"
+  },
+  {
+    "id": "6",
+    "url": "/",
+    "title": "Learning Java? Start Small.",
+    "text": "Can't pry yourself away from the tutorials? The cure is to make tiny little experimental apps.",
+    "linkTitle": "dev.to",
+    "linkSrc": "/"
+  },
+  {
+    "id": "7",
+    "url": "/",
+    "title": "Learning Cloud? Start Small.",
+    "text": "Can't pry yourself away from the tutorials? The cure is to make tiny little experimental apps.",
+    "linkTitle": "dev.to",
+    "linkSrc": "/"
+  },
+  {
+    "id": "8",
+    "url": "/",
+    "title": "Learning JavaScript? Start Small.",
+    "text": "Can't pry yourself away from the tutorials? The cure is to make tiny little experimental apps.",
+    "linkTitle": "dev.to",
+    "linkSrc": "/"
+  },
+  {
+    "id": "9",
+    "url": "/",
+    "title": "Learning JavaScript? Start Small.",
+    "text": "Can't pry yourself away from the tutorials? The cure is to make tiny little experimental apps.",
+    "linkTitle": "dev.to",
+    "linkSrc": "/"
+  }
+]
